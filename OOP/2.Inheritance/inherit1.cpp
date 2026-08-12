@@ -37,7 +37,7 @@ int main(){
     Cat c1;
     d1.eat();
     d1.barks();
-    d1.me
+
 
     c1.eat();
     c1.meow();
